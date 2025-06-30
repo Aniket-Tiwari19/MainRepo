@@ -1,4 +1,2 @@
-# MainRepo
-<H2>Author-Aniket Tiwari</H2>
-<br>
-D.O.B.-08/03/2005
+<h3>Welcome to my Github Page.</h3>
+In this repository I will store my main projects.
